@@ -1,2 +1,2 @@
-# DSA Practice
+# DSA Practice 👨‍💻
 Data Structure and Algorithm Practice 📜.
