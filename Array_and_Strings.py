@@ -11,7 +11,7 @@ for val in lst_user:
 print(new)"""
 
 #sol 1.2.1
-user=input('Enter String : ')
+"""user=input('Enter String : ')
 lst_1=list(user)
 m=0
 n=len(user)-1
@@ -20,7 +20,7 @@ while m<=n:
     lst_2.append(lst_1[n])
     n-=1
 word=('').join(lst_2)
-print(word)
+print(word)"""
 
 #sol 1.2.2
 """user=input('Enter String : ')
