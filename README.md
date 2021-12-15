@@ -1,4 +1,4 @@
 # DSA Practice 👨‍💻
-Data Structure 📜 and Algorithm Practice 📜.
+Data Structure 📜 and Algorithm 📜.
 
 (LeetCode)
