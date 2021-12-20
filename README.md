@@ -1,4 +1,2 @@
 # DSA Practice 👨‍💻
-Data Structure 📜 and Algorithm 📜.
-
-(LeetCode)
+Data Structure 📜 and Algorithm 📜. <b><i>(LeetCode)</i></b>
