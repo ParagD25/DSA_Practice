@@ -9,4 +9,4 @@
 - Input currency in rupees and output in USD. [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Introduction/currency.java) [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/currency.py)
 - To calculate Fibonacci Series up to n numbers. [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Introduction/fibb.java) [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/fibb.py)
 - To find out whether the given String is Palindrome or not. [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Introduction/pallindrome.java) [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/palindrome.py)
-- To find Armstrong Number between two given number. [Java]() [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/armstrong.py)
+- To find Armstrong Number between two given number. [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Introduction/armstrong.java) [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/armstrong.py)
