@@ -1,6 +1,5 @@
-package com.company;
+package com.first;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class odd_or_even {
