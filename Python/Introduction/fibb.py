@@ -3,5 +3,8 @@ b=1
 num=int(input("Enter n :"))
 print(a)
 print(b)
-for c in range(2,num+1):
-    pass   
+for val in range(2,num):
+    c=a+b
+    a=b
+    b=c
+    print(c)
