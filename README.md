@@ -10,3 +10,16 @@
 - To calculate Fibonacci Series up to n numbers. [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Introduction/fibb.java) [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/fibb.py)
 - To find out whether the given String is Palindrome or not. [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Introduction/pallindrome.java) [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/palindrome.py)
 - To find Armstrong Number between two given number. [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Introduction/armstrong.java) [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/armstrong.py)
+
+## Conditional Loops:
+- Area Of Circle Java Program
+- Subtract the Product and Sum of Digits of an Integer [Java]()
+- Input a number and print all the factors of that number (use loops). [Java]() [Python]()
+- Take integer inputs till the user enters 0 and print the sum of all numbers [Java]() [Python]()
+- Take integer inputs till the user enters 0 and print the largest number from all. [Java]() [Python]()
+- Factorial Program In Java [Java]() [Python]()
+- Calculate Electricity Bill [Java]() [Python]()
+- Calculate Average Of N Numbers [Java]() [Python]()
+- Calculate Discount Of Product [Java]() [Python]()
+- Calculate Depreciation of Value [Java]() [Python]()
+- Compound Interest Java Program [Java]() [Python]()
