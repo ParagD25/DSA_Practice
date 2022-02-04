@@ -30,3 +30,9 @@
 - LCM Of Two Numbers Program - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Conditional%20Loops/lcm.java)
 - Perfect Number In Java - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Conditional%20Loops/perfect.java)
 - Check Leap Year Or Not - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Conditional%20Loops/leap.java)
+
+## Funtions:
+- Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user. - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Funtions/max_min.java)
+- Write a function that returns all prime numbers between two given numbers. - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Funtions/prime.java)
+
+## Arrays:
