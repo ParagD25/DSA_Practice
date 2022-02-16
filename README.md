@@ -38,34 +38,34 @@
 ## Arrays:
 
 ### Easy :
-- Build Array from Permutation
-- Concatenation of Array
-- Running Sum of 1d Array
-- Richest Customer Wealth
-- Shuffle the Array
-- Kids With the Greatest Number of Candies
-- Number of Good Pairs
-- How Many Numbers Are Smaller Than the Current Number
-- Create Target Array in the Given Order
-- Check if the Sentence Is Pangram
-- Count Items Matching a Rule
-- Find the Highest Altitude
-- Flipping an Image
-- Cells with Odd Values in a Matrix
-- Matrix Diagonal Sum
-- Find Numbers with Even Number of Digits
-- Transpose Matrix
-- Add to Array-Form of Integer
-- Maximum Population Year
-- Determine Whether Matrix Can Be Obtained By Rotation
-- Two Sum
-- Find N Unique Integers Sum up to Zero
-- Lucky Number In a Matrix
-- Maximum Subarray
-- Reshape the Matrix
-- Plus One
-- Remove Duplicates from Sorted Array
-- Minimum Cost to Move Chips to The Same Position
+- Build Array from Permutation - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/permutation.java)
+- Concatenation of Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/concatenation.java)
+- Running Sum of 1d Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/runningSum.java)
+- Richest Customer Wealth - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/wealth.java)
+- Shuffle the Array - [Java]()
+- Kids With the Greatest Number of Candies - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/extracandy.java)
+- Number of Good Pairs - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/goodpairs.java)
+- How Many Numbers Are Smaller Than the Current Number - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/smaller.java)
+- Create Target Array in the Given Order - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/target.java)
+- Check if the Sentence Is Pangram - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Count Items Matching a Rule - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Find the Highest Altitude - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Flipping an Image - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Cells with Odd Values in a Matrix - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Matrix Diagonal Sum - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Find Numbers with Even Number of Digits - [Java]()
+- Transpose Matrix - [Java]()
+- Add to Array-Form of Integer - [Java]()
+- Maximum Population Year - [Java]()
+- Determine Whether Matrix Can Be Obtained By Rotation - [Java]()
+- Two Sum - [Java]()
+- Find N Unique Integers Sum up to Zero - [Java]()
+- Lucky Number In a Matrix - [Java]()
+- Maximum Subarray - [Java]()
+- Reshape the Matrix - [Java]()
+- Plus One - [Java]()
+- Remove Duplicates from Sorted Array - [Java]()
+- Minimum Cost to Move Chips to The Same Position - [Java]()
 
 ### Medium
 - Spiral Matrix
