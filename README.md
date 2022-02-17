@@ -36,3 +36,50 @@
 - Write a function that returns all prime numbers between two given numbers. - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Funtions/prime.java)
 
 ## Arrays:
+
+### Easy :
+- Build Array from Permutation - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/permutation.java)
+- Concatenation of Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/concatenation.java)
+- Running Sum of 1d Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/runningSum.java)
+- Richest Customer Wealth - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/wealth.java)
+- Shuffle the Array - [Java]()
+- Kids With the Greatest Number of Candies - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/extracandy.java)
+- Number of Good Pairs - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/goodpairs.java)
+- How Many Numbers Are Smaller Than the Current Number - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/smaller.java)
+- Create Target Array in the Given Order - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/target.java)
+- Check if the Sentence Is Pangram - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Count Items Matching a Rule - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Find the Highest Altitude - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Flipping an Image - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Cells with Odd Values in a Matrix - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Matrix Diagonal Sum - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/.java)
+- Find Numbers with Even Number of Digits - [Java]()
+- Transpose Matrix - [Java]()
+- Add to Array-Form of Integer - [Java]()
+- Maximum Population Year - [Java]()
+- Determine Whether Matrix Can Be Obtained By Rotation - [Java]()
+- Two Sum - [Java]()
+- Find N Unique Integers Sum up to Zero - [Java]()
+- Lucky Number In a Matrix - [Java]()
+- Maximum Subarray - [Java]()
+- Reshape the Matrix - [Java]()
+- Plus One - [Java]()
+- Remove Duplicates from Sorted Array - [Java]()
+- Minimum Cost to Move Chips to The Same Position - [Java]()
+
+### Medium
+- Spiral Matrix
+- Spiral Matrix II
+- Spiral Matrix III
+- Set Matrix Zeroes
+- Product of Array Except Self
+- Find First and Last Position of Element in Sorted Array
+- Jump Game
+- Rotate Array
+- Sort Colors
+- House Robber
+
+### Hard
+- Max Value of Equation
+- First Missing Positive
+- Good Array
