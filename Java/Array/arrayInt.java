@@ -1,12 +1,14 @@
 package com;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 
 public class arrayInt {
     public static void main(String[] args) {
         int[] num = {9,9,9,9,9,9,9,9,9,9};
         int k = 1;
-        System.out.println(func(num,k));
+        System.out.println(addtoArray(num,k));
 
     }
 
@@ -55,29 +57,56 @@ public class arrayInt {
 //        return res;
 //    }
 
-    static ArrayList<Integer> func(int[] arr,int n){
-        ArrayList<Integer> res=new ArrayList<>(10);
-        for (int i = arr.length; (n>0 && i>=0) ; i--) {
-            int digit=n%10;
-            n-=digit;
+//    static ArrayList<Integer> func(int[] arr,int n){
+//        ArrayList<Integer> res=new ArrayList<>(10);
+//        for (int i = arr.length; (n>0 && i>=0) ; i--) {
+//            int digit=n%10;
+//            n-=digit;
+//
+//            int sum=arr[i]+digit;
+//            arr[i]=sum%10;
+//            sum-=arr[i];
+//
+//            n+=sum;
+//            n=n/10;
+//        }
+//        ArrayList<Integer> l=new ArrayList<>();
+//
+//        while(n>0){
+//            l.add(0,n%10);
+//            n=n/10;
+//        }
+//        for (int i = 0; i < arr.length; i++) {
+//            int x = arr[i];
+//            l.add(x);
+//        }
+//        return l;
+//    }
 
-            int sum=arr[i]+digit;
-            arr[i]=sum%10;
-            sum-=arr[i];
 
-            n+=sum;
-            n=n/10;
-        }
-        ArrayList<Integer> l=new ArrayList<>();
+    static ArrayList<Integer> addtoArray(int[] arr,int k) {
+        int n= arr.length;
+        int i=n-1;
+        ArrayList<Integer> res = new ArrayList<>();
 
-        while(n>0){
-            l.add(0,n%10);
-            n=n/10;
+        while(i>=0 || k>0){
+
+            if(i>=0){
+                res.add((arr[i]+k)%10);
+                k=(arr[i]+k)/10;
+            }
+
+            else{
+                res.add(k%10);
+                k/=10;
+            }
+
+            i--;
+
         }
-        for (int i = 0; i < arr.length; i++) {
-            int x = arr[i];
-            l.add(x);
-        }
-        return l;
+        Collections.reverse(res);
+
+
+        return res;
     }
 }
