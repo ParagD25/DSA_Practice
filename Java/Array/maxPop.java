@@ -6,27 +6,22 @@ public class maxPop {
         System.out.println(maximumPopulation(logs));
     }
     static int maximumPopulation(int[][] logs) {
-        int[] year = new int[2051];
-
-
+        int [] arr = new int[101];
         for (int[] log : logs) {
+            for (int j = log[0]; j < log[1]; j++) {
+                arr[j - 1950]++;
 
-            year[log[0]] += 1;
-            year[log[1]] -= 1;
-        }
-
-        int maxNum = year[1950], maxYear = 1950;
-
-
-        for (int i = 1951; i < year.length; i++) {
-            year[i] += year[i - 1];
-
-            if (year[i] > maxNum) {
-                maxNum = year[i];
-                maxYear = i;
             }
         }
+        int maxValue = 0;
+        int maxYear = 1950;
 
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]> maxValue){
+                maxValue = arr[i];
+                maxYear = i+1950;
+            }
+        }
         return maxYear;
     }
 }
