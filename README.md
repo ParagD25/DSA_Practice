@@ -1,5 +1,7 @@
 # DSA Practice 👨‍💻
 
+### [All DSA Questions](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
+
 ## Introduction to Programming:
 - [x] Write a program to print whether a number is even or odd, also take input. - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Introduction/odd_or_even.java) [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/odd_even.py)
 - [x] Take name as input and print a greeting message for that name. - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Introduction/greet.java) [Python](https://github.com/ParagD25/DSA_Practice/blob/master/Python/Introduction/greet.py)
