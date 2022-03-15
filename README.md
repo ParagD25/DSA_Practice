@@ -62,10 +62,10 @@
 - [x] Determine Whether Matrix Can Be Obtained By Rotation - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/rotation.java)
 - [x] Two Sum - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/twosum.java)
 - [x] Find N Unique Integers Sum up to Zero - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/nunique.java)
-- [ ] Lucky Number In a Matrix - [Java]()
+- [x] Lucky Number In a Matrix - [Java]()
 - [ ] Maximum Subarray - [Java]()
 - [ ] Reshape the Matrix - [Java]()
-- [ ] Plus One - [Java]()
+- [x] Plus One - [Java]()
 - [ ] Remove Duplicates from Sorted Array - [Java]()
 - [ ] Minimum Cost to Move Chips to The Same Position - [Java]()
 
