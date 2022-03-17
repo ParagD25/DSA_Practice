@@ -66,8 +66,8 @@
 - [ ] Maximum Subarray - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/maxsub.java)
 - [ ] Reshape the Matrix - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/reshape.java)
 - [ ] Plus One - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/plusOne.java)
-- [ ] Remove Duplicates from Sorted Array - [Java]()
-- [ ] Minimum Cost to Move Chips to The Same Position - [Java]()
+- [ ] Remove Duplicates from Sorted Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/removeDupl.java)
+- [ ] Minimum Cost to Move Chips to The Same Position - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/minCost.java)
 
 ### Medium
 - [ ] Spiral Matrix
