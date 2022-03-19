@@ -70,16 +70,16 @@
 - [ ] Minimum Cost to Move Chips to The Same Position - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/minCost.java)
 
 ### Medium
-- [ ] Spiral Matrix
-- [ ] Spiral Matrix II
-- [ ] Spiral Matrix III
-- [ ] Set Matrix Zeroes
-- [ ] Product of Array Except Self
-- [ ] Find First and Last Position of Element in Sorted Array
-- [ ] Jump Game
-- [ ] Rotate Array
-- [ ] Sort Colors
-- [ ] House Robber
+- [ ] Spiral Matrix - [Java]()
+- [ ] Spiral Matrix II - [Java]()
+- [ ] Spiral Matrix III - [Java]()
+- [ ] Set Matrix Zeroes - [Java]()
+- [ ] Product of Array Except Self - [Java]()
+- [ ] Find First and Last Position of Element in Sorted Array - [Java]()
+- [ ] Jump Game - [Java]()
+- [ ] Rotate Array - [Java]()
+- [ ] Sort Colors - [Java]()
+- [ ] House Robber - [Java]()
 
 ### Hard
 - [ ] Max Value of Equation
