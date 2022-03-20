@@ -39,7 +39,7 @@
 
 ## Arrays:
 
-### Easy :
+#### Easy :
 - [x] Build Array from Permutation - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/permutation.java)
 - [x] Concatenation of Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/concatenation.java)
 - [x] Running Sum of 1d Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/runningSum.java)
@@ -69,7 +69,7 @@
 - [ ] Remove Duplicates from Sorted Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/removeDupl.java)
 - [ ] Minimum Cost to Move Chips to The Same Position - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/minCost.java)
 
-### Medium
+#### Medium
 - [ ] Spiral Matrix - [Java]()
 - [ ] Spiral Matrix II - [Java]()
 - [ ] Spiral Matrix III - [Java]()
@@ -81,7 +81,29 @@
 - [ ] Sort Colors - [Java]()
 - [ ] House Robber - [Java]()
 
-### Hard
+#### Hard
 - [ ] Max Value of Equation
 - [ ] First Missing Positive
 - [ ] Good Array
+
+
+## Searching:
+
+#### Easy :
+- [ ] Square Root
+- [ ] Guess Number Higher or Lower
+- [ ] First Bad Version
+- [ ] Two Sum II - Input array is sorted
+- [ ] Valid Perfect Square
+- [ ] Arranging Coins(Easy)
+- [ ] Find Smallest Letter Greater Than Target
+- [ ] Kth Missing Positive Number
+- [ ] Search Insert Position
+- [ ] Peak Index in a Mountain Array
+- [ ] Count Negative Numbers in a Sorted Matrix
+- [ ] Intersection of Two Arrays
+- [ ] Intersection of Two Arrays II
+- [ ] Fair Candy Swap
+- [ ] Check If N and Its Double Exist
+- [ ] Special Array With X Elements Greater Than or Equal X
+- [ ] Binary Search
