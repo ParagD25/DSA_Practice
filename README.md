@@ -126,3 +126,13 @@
 - [ ] Find the Duplicate Number - [Java]()
 - [ ] Capacity To Ship Packages Within D Days - [Java]()
 - [ ] 4 Sum - [Java]()
+
+#### Hard : 
+- [ ] Median of Two Sorted Arrays - [Java]()
+- [ ] Find Minimum in Rotated Sorted Array II - [Java]()
+- [ ] Aggressive cows - [Java]()
+- [ ] Book allocation - [Java]()
+- [ ] Split Array Largest Sum - [Java]()
+- [ ] Find in Mountain Array - [Java]()
+- [ ] Count smaller number after Self - [Java]()
+- [ ] Divide Chocolate Problem - [Java]()
