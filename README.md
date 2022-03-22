@@ -70,16 +70,16 @@
 - [ ] Minimum Cost to Move Chips to The Same Position - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/minCost.java)
 
 #### Medium
-- [ ] Spiral Matrix - [Java]()
-- [ ] Spiral Matrix II - [Java]()
-- [ ] Spiral Matrix III - [Java]()
-- [ ] Set Matrix Zeroes - [Java]()
-- [ ] Product of Array Except Self - [Java]()
-- [ ] Find First and Last Position of Element in Sorted Array - [Java]()
-- [ ] Jump Game - [Java]()
-- [ ] Rotate Array - [Java]()
-- [ ] Sort Colors - [Java]()
-- [ ] House Robber - [Java]()
+- [ ] Spiral Matrix - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/spiral1.java)
+- [ ] Spiral Matrix II - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/spiral2.java)
+- [ ] Spiral Matrix III - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/spiral3.java)
+- [ ] Set Matrix Zeroes - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/matZero.java)
+- [ ] Product of Array Except Self - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/productArray.java)
+- [ ] Find First and Last Position of Element in Sorted Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/firstAndLast.java)
+- [ ] Jump Game - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/jump.java)
+- [ ] Rotate Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/rotateArray.java)
+- [ ] Sort Colors - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/sortColor.java)
+- [ ] House Robber - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/houseRobber.java)
 
 #### Hard
 - [ ] Max Value of Equation
