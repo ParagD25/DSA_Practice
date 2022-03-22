@@ -39,7 +39,7 @@
 
 ## Arrays:
 
-### Easy :
+#### Easy :
 - [x] Build Array from Permutation - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/permutation.java)
 - [x] Concatenation of Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/concatenation.java)
 - [x] Running Sum of 1d Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/runningSum.java)
@@ -69,7 +69,7 @@
 - [ ] Remove Duplicates from Sorted Array - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/removeDupl.java)
 - [ ] Minimum Cost to Move Chips to The Same Position - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/minCost.java)
 
-### Medium
+#### Medium
 - [ ] Spiral Matrix - [Java]()
 - [ ] Spiral Matrix II - [Java]()
 - [ ] Spiral Matrix III - [Java]()
@@ -81,7 +81,58 @@
 - [ ] Sort Colors - [Java]()
 - [ ] House Robber - [Java]()
 
-### Hard
+#### Hard
 - [ ] Max Value of Equation
 - [ ] First Missing Positive
 - [ ] Good Array
+
+
+## Searching:
+
+#### Easy :
+- [ ] Square Root - [Java]()
+- [ ] Guess Number Higher or Lower - [Java]()
+- [ ] First Bad Version - [Java]()
+- [ ] Two Sum II - Input array is sorted - [Java]()
+- [ ] Valid Perfect Square - [Java]()
+- [ ] Arranging Coins(Easy) - [Java]()
+- [ ] Find Smallest Letter Greater Than Target - [Java]()
+- [ ] Kth Missing Positive Number - [Java]()
+- [ ] Search Insert Position - [Java]()
+- [ ] Peak Index in a Mountain Array - [Java]()
+- [ ] Count Negative Numbers in a Sorted Matrix - [Java]()
+- [ ] Intersection of Two Arrays - [Java]()
+- [ ] Intersection of Two Arrays II - [Java]()
+- [ ] Fair Candy Swap - [Java]()
+- [ ] Check If N and Its Double Exist - [Java]()
+- [ ] Special Array With X Elements Greater Than or Equal X - [Java]()
+- [ ] Binary Search - [Java]()
+
+#### Medium :
+- [ ] Find First and Last Position of Element in Sorted Array - [Java]()
+- [ ] Single Element in a Sorted Array - [Java]()
+- [ ] Search in Rotated Sorted Array - [Java]()
+- [ ] Search in Rotated Sorted Array II - [Java]()
+- [ ] Find Minimum in Rotated Sorted Array - [Java]()
+- [ ] Find Peak Element - [Java]()
+- [ ] Find Right Interval - [Java]()
+- [ ] Reach a Number - [Java]()
+- [ ] Maximum Value at a Given Index in a Bounded Array - [Java]()
+- [ ] Koko Eating Bananas - [Java]()
+- [ ] Minimum Absolute Sum Difference - [Java]()
+- [ ] Search a 2D Matrix - [Java]()
+- [ ] Find a Peak Element II - [Java]()
+- [ ] Frequency of the Most Frequent Element - [Java]()
+- [ ] Find the Duplicate Number - [Java]()
+- [ ] Capacity To Ship Packages Within D Days - [Java]()
+- [ ] 4 Sum - [Java]()
+
+#### Hard : 
+- [ ] Median of Two Sorted Arrays - [Java]()
+- [ ] Find Minimum in Rotated Sorted Array II - [Java]()
+- [ ] Aggressive cows - [Java]()
+- [ ] Book allocation - [Java]()
+- [ ] Split Array Largest Sum - [Java]()
+- [ ] Find in Mountain Array - [Java]()
+- [ ] Count smaller number after Self - [Java]()
+- [ ] Divide Chocolate Problem - [Java]()
