@@ -128,11 +128,11 @@
 - [ ] 4 Sum - [Java]()
 
 #### Hard : 
-- [ ] Median of Two Sorted Arrays - [Java]()
-- [ ] Find Minimum in Rotated Sorted Array II - [Java]()
-- [ ] Aggressive cows - [Java]()
-- [ ] Book allocation - [Java]()
-- [ ] Split Array Largest Sum - [Java]()
-- [ ] Find in Mountain Array - [Java]()
-- [ ] Count smaller number after Self - [Java]()
-- [ ] Divide Chocolate Problem - [Java]()
+- [ ] Median of Two Sorted Arrays 
+- [ ] Find Minimum in Rotated Sorted Array II 
+- [ ] Aggressive cows 
+- [ ] Book allocation 
+- [ ] Split Array Largest Sum 
+- [ ] Find in Mountain Array 
+- [ ] Count smaller number after Self 
+- [ ] Divide Chocolate Problem 
