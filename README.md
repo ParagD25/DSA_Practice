@@ -81,10 +81,10 @@
 - [ ] Sort Colors - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/sortColor.java)
 - [ ] House Robber - [Java](https://github.com/ParagD25/DSA_Practice/blob/master/Java/Array/houseRobber.java)
 
-#### Hard
-- [ ] Max Value of Equation
-- [ ] First Missing Positive
-- [ ] Good Array
+<!-- #### Hard -->
+<!-- - [ ] Max Value of Equation -->
+<!-- - [ ] First Missing Positive -->
+<!-- - [ ] Good Array -->
 
 
 ## Searching:
@@ -108,31 +108,31 @@
 - [ ] Special Array With X Elements Greater Than or Equal X - [Java]()
 - [ ] Binary Search - [Java]()
 
-#### Medium :
-- [ ] Find First and Last Position of Element in Sorted Array - [Java]()
-- [ ] Single Element in a Sorted Array - [Java]()
-- [ ] Search in Rotated Sorted Array - [Java]()
-- [ ] Search in Rotated Sorted Array II - [Java]()
-- [ ] Find Minimum in Rotated Sorted Array - [Java]()
-- [ ] Find Peak Element - [Java]()
-- [ ] Find Right Interval - [Java]()
-- [ ] Reach a Number - [Java]()
-- [ ] Maximum Value at a Given Index in a Bounded Array - [Java]()
-- [ ] Koko Eating Bananas - [Java]()
-- [ ] Minimum Absolute Sum Difference - [Java]()
-- [ ] Search a 2D Matrix - [Java]()
-- [ ] Find a Peak Element II - [Java]()
-- [ ] Frequency of the Most Frequent Element - [Java]()
-- [ ] Find the Duplicate Number - [Java]()
-- [ ] Capacity To Ship Packages Within D Days - [Java]()
-- [ ] 4 Sum - [Java]()
+<!-- #### Medium : -->
+<!-- - [ ] Find First and Last Position of Element in Sorted Array - [Java]() -->
+<!-- - [ ] Single Element in a Sorted Array - [Java]() -->
+<!-- - [ ] Search in Rotated Sorted Array - [Java]() -->
+<!-- - [ ] Search in Rotated Sorted Array II - [Java]() -->
+<!-- - [ ] Find Minimum in Rotated Sorted Array - [Java]() -->
+<!-- - [ ] Find Peak Element - [Java]() -->
+<!-- - [ ] Find Right Interval - [Java]() -->
+<!-- - [ ] Reach a Number - [Java]() -->
+<!-- - [ ] Maximum Value at a Given Index in a Bounded Array - [Java]() -->
+<!-- - [ ] Koko Eating Bananas - [Java]() -->
+<!-- - [ ] Minimum Absolute Sum Difference - [Java]() -->
+<!-- - [ ] Search a 2D Matrix - [Java]() -->
+<!-- - [ ] Find a Peak Element II - [Java]() -->
+<!-- - [ ] Frequency of the Most Frequent Element - [Java]() -->
+<!-- - [ ] Find the Duplicate Number - [Java]() -->
+<!-- - [ ] Capacity To Ship Packages Within D Days - [Java]() -->
+<!-- - [ ] 4 Sum - [Java]() -->
 
-#### Hard : 
-- [ ] Median of Two Sorted Arrays 
-- [ ] Find Minimum in Rotated Sorted Array II 
-- [ ] Aggressive cows 
-- [ ] Book allocation 
-- [ ] Split Array Largest Sum 
-- [ ] Find in Mountain Array 
-- [ ] Count smaller number after Self 
-- [ ] Divide Chocolate Problem 
+<!-- #### Hard :  -->
+<!-- - [ ] Median of Two Sorted Arrays  -->
+<!-- - [ ] Find Minimum in Rotated Sorted Array II  -->
+<!-- - [ ] Aggressive cows  -->
+<!-- - [ ] Book allocation  -->
+<!-- - [ ] Split Array Largest Sum  -->
+<!-- - [ ] Find in Mountain Array  -->
+<!-- - [ ] Count smaller number after Self  -->
+<!-- - [ ] Divide Chocolate Problem -->
